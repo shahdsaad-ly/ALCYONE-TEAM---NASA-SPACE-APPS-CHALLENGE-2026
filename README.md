@@ -1,5 +1,5 @@
 
-## ALCYONE TEAM PRESENTS
+## 🌠ALCYONE TEAM PRESENTS
 **The Machines NASA Left Behind**
 
 A multi-page educational website for school-age space enthusiasts, created by **Team ALCYONE** for the **NASA Space Apps Challenge 2026**.
