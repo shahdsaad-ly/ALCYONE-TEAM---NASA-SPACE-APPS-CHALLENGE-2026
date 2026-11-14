@@ -5,7 +5,6 @@
 A multi-page educational website for school-age space enthusiasts, created by **Team ALCYONE** for the **NASA Space Apps Challenge 2026**.
 
 **Live site:** [PASTE YOUR GITHUB PAGES LINK HERE]
-**Demo:** [PASTE YOUR DEMO LINK HERE]
 
 ---
 
@@ -88,14 +87,12 @@ The team reviewed, edited and tested the output, and checked the facts against N
 
 ## Team ALCYONE
 
-[Team member roles. Example:]
-
-- Front-End Developer
-- UI/UX Designer
-- Content Lead
-- QA Tester
-- [Role]
-- [Role]
+Hanaa Khattab - Team Owner - Researcher & Voice Over & Content Writer
+Shahd Saad - Lead Developer
+Alaa Abdallah - Developer
+Salma Atia - UI Designer
+Buthaina Urayet - Researcher & Voice Over & Content Writer
+Yaken Othman - Researcher & Voice Over & Content Writer
 
 ## Disclaimer
 
@@ -103,4 +100,10 @@ This is a student project created for the NASA Space Apps Challenge. It is **not
 
 ## License
 
-[Choose one, for example MIT for the code. NASA media follows NASA's media usage guidelines.]
+**Code:** The HTML, CSS and original text of this project are released under the [MIT License](LICENSE).
+
+**NASA images and media:** Images and data from NASA are **not** covered by the MIT License. They remain subject to NASA's media usage guidelines: https://www.nasa.gov/nasa-brand-center/images-and-media/. Each image is credited to its source (for example NASA/JPL-Caltech; NASA, ESA, CSA and STScI) and links to its NASA page.
+
+**NASA name and logos:** This is a student project and is **not affiliated with or endorsed by NASA**. The NASA name and insignia are used only to credit sources.
+
+**Team logo and original artwork:** © 2026 Team ALCYONE. All rights reserved.
